@@ -1,0 +1,1 @@
+# Thermal-analysis-of-device-with-multiple-types-of-heat-sinks
